@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "https://burst.shopifycdn.com/photos/beach-chairs-seaside.jpg?width=1850&format=pjpg&exif=1&iptc=1",
+        "title": "Beach",
+        "text": "A beach is a coastal paradise where land and sea meet in perfect harmony. Sun-drenched sand stretches for miles, inviting barefoot walks and sandcastle dreams. "
+    },
+    {
+        "id": 2,
+        "image": "https://burst.shopifycdn.com/photos/hand-holds-a-knife-ready-to-chop-a-zucchini.jpg?width=1850&format=pjpg&exif=1&iptc=1",
+        "title": "Cook",
+        "text": "Cooking is an art form that combines ingredients, techniques, and creativity to create delicious meals."
+    },
+    {
+        "id": 3,
+        "image": "https://burst.shopifycdn.com/photos/boxing-gym-workout.jpg?width=1850&format=pjpg&exif=1&iptc=1",
+        "title": "Workout",
+        "text": "Workout is a physical activity focused on improving fitness and overall health. It involves engaging in various exercises like cardio, strength training, and flexibility routines."
+    },
+    {
+        "id": 4,
+        "image": "https://burst.shopifycdn.com/photos/mobile-phone-with-the-words-inspire-on-screen.jpg?width=1850&format=pjpg&exif=1&iptc=1",
+        "title": "Phone",
+        "text": "Phones, also known as smartphones, are portable electronic devices that revolutionized communication and connectivity."
+    },
+    {
+        "id": 5,
+        "image": "https://burst.shopifycdn.com/photos/green-health-smoothie.jpg?width=1850&format=pjpg&exif=1&iptc=1",
+        "title": "Smoothie",
+        "text": "A smoothie is a refreshing and nutritious beverage made by blending together a combination of fruits, vegetables, liquids."
+    },
+    {
+        "id": 6,
+        "image": "https://burst.shopifycdn.com/photos/cell-phone-screen-displaying-graphs-and-numbers.jpg?width=1850&format=pjpg&exif=1&iptc=1",
+        "title": "Stock",
+        "text": "Stocks, also known as shares or equities, represent ownership in a company."
+    }
+]
